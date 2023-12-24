@@ -1,0 +1,15 @@
+.carousel .slide {
+    margin-right: 70px;
+    float: right;
+
+}
+
+.card {
+    margin-left: 70px;
+    float: left; 
+    margin-bottom: 30px;
+}
+
+h1 {
+    padding: 25px;
+}
